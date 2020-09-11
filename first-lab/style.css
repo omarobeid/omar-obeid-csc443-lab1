@@ -1,0 +1,58 @@
+﻿#me {
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    width: 100px;
+    height: 150px
+}
+
+h2 {
+    color: blue;
+}
+h1,h3{
+    color:gray;
+}
+
+ul>li>p {
+    font-size:200%;
+    color:gray;
+}
+#year{
+    color:black;
+}
+
+#description{
+    color:red;
+}
+
+skill1 {
+    font-family: Georgia, serif;
+}
+
+skill2 {
+    font-family: "Gill Sans", sans-serif;
+}
+skill3 {
+    font-family:'Gill Sans';
+}
+
+table{
+    border:double;
+    border-color: red;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+a:hover{
+text-decoration:underline;
+    text-decoration-color:green;
+}
+
+footer{
+    background-color:gray;
+    position:sticky;
+    bottom:0;
+    width:100%;
+}
